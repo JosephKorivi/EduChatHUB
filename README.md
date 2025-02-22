@@ -1,2 +1,2 @@
 # EduChatHUB
-EduChatHUB - Virtual Campus Enironment 
+EduChatHUB - Virtual Campus Environment 
